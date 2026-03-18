@@ -1,6 +1,7 @@
 ### Hi! My name is Roman.
-I'm an programmer-electric.<br/>
-![](https://komarev.com/ghpvc/?username=Pomkis)
+I'm an programmer-electric.<br/><br/>
+• ![](https://komarev.com/ghpvc/?username=Pomkis)<br/>
+• <a href="https://mynickname.com/id1842687"><img src="https://mynickname.com/img.php?nick=Pomkis&sert=26&text=t4" alt="My nickname is Pomkis" /></a><br/>
 
 I have knowledge and skills in the following areas:<br/>
 <div align="center">
@@ -18,12 +19,24 @@ I have knowledge and skills in the following areas:<br/>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" title="Windows"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="Ubuntu" title="Ubuntu"/></code>
-</div>
+</div><br/>
 
 <details>
 	<summary>Statistics:</summary>
-		<img src="https://github-readme-stats.vercel.app/api?username=Pomkis&show_icons=true&theme=dark"/><br/>
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pomkis&theme=dark"/><br/>
+		<table>
+		  <tr>
+		    <th>
+		      <a href="https://github.com/Pomkis">
+		        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pomkis&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Pomkis's github stats" />
+		      </a>
+		    </th>
+		    <th>
+		      <a href="https://github.com/Pomkis">
+		        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pomkis&layout=compact&theme=dark&hide_border=true" />
+		      </a>
+		    </th>
+		  </tr>
+		</table>
 </details>
 
 <!---
